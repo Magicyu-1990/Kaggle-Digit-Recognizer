@@ -1,0 +1,1 @@
+/home/yu/caffe-master/examples/Digit_Recognizer/Data/mnist_train.h5
